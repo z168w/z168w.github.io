@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.toles.com.cn/2.10/news/19/</loc>
+    <loc>http://www.toles.com.cn/2.10/page/toles-advanced-exam/</loc>
     
-    <lastmod>2021-12-02</lastmod>
+    <lastmod>2021-12-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.toles.com.cn/2.10/page/toles-advanced-exam/</loc>
+    <loc>http://www.toles.com.cn/2.10/page/toles-higher-exam/</loc>
     
-    <lastmod>2021-11-27</lastmod>
+    <lastmod>2021-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.toles.com.cn/2.10/page/toles-foundation-exam/</loc>
+    
+    <lastmod>2021-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.toles.com.cn/2.10/news/19/</loc>
+    
+    <lastmod>2021-12-02</lastmod>
     
   </url>
   
@@ -24,20 +38,6 @@
   
   <url>
     <loc>http://www.toles.com.cn/2.10/page/sitemap/</loc>
-    
-    <lastmod>2021-11-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.toles.com.cn/2.10/page/toles-higher-exam/</loc>
-    
-    <lastmod>2021-11-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.toles.com.cn/2.10/page/toles-foundation-exam/</loc>
     
     <lastmod>2021-11-27</lastmod>
     
@@ -422,6 +422,13 @@
   </url>
   
   <url>
+    <loc>http://www.toles.com.cn/2.10/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.toles.com.cn/2.10/news/14/</loc>
     
     <lastmod>2021-11-25</lastmod>
@@ -563,8 +570,8 @@
   
 
   <url>
-    <loc>http://www.toles.com.cn/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <loc>http://www.toles.com.cn/2.10</loc>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -574,7 +581,7 @@
   
   <url>
     <loc>http://www.toles.com.cn/2.10/categories/news/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
